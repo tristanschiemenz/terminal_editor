@@ -1,7 +1,7 @@
 import curses
 from curses import wrapper
 import time
-
+    
 WELCOME_TEXT = "Welcome to my Terminal-Based-Text-Editor"
 FUNCTION_LIST = ["pass","pass","pass"]
 
